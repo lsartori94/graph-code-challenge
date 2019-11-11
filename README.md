@@ -7,7 +7,7 @@ The app is configured via a `.env` file that should be located at the root folde
 NODE_ENV=development
 
 # Node.js server configuration
-SERVER_PORT=3001
+PORT=3001
 ```
 
 Test data is included on the `src` folder.
